@@ -10,16 +10,16 @@ import (
 	"time"
 
 	"github.com/tidwall/gjson"
-	"github.com/wgpsec/ENScan/common"
-	"github.com/wgpsec/ENScan/common/gologger"
-	"github.com/wgpsec/ENScan/common/utils"
-	_interface "github.com/wgpsec/ENScan/interface"
-	"github.com/wgpsec/ENScan/internal/aiqicha"
-	"github.com/wgpsec/ENScan/internal/app/miit"
-	"github.com/wgpsec/ENScan/internal/kuaicha"
-	"github.com/wgpsec/ENScan/internal/riskbird"
-	"github.com/wgpsec/ENScan/internal/tianyancha"
-	"github.com/wgpsec/ENScan/internal/tycapi"
+	"github.com/adminbugw/ENScan_GO/common"
+	"github.com/adminbugw/ENScan_GO/common/gologger"
+	"github.com/adminbugw/ENScan_GO/common/utils"
+	_interface "github.com/adminbugw/ENScan_GO/interface"
+	"github.com/adminbugw/ENScan_GO/pkg/aiqicha"
+	"github.com/adminbugw/ENScan_GO/pkg/app/miit"
+	"github.com/adminbugw/ENScan_GO/pkg/kuaicha"
+	"github.com/adminbugw/ENScan_GO/pkg/riskbird"
+	"github.com/adminbugw/ENScan_GO/pkg/tianyancha"
+	"github.com/adminbugw/ENScan_GO/pkg/tycapi"
 )
 
 type EnJob struct {

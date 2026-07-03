@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/tidwall/gjson"
-	"github.com/wgpsec/ENScan/common/utils"
+	"github.com/adminbugw/ENScan_GO/common/utils"
 )
 
 var (

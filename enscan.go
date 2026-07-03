@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/wgpsec/ENScan/common"
-	"github.com/wgpsec/ENScan/runner"
+	"github.com/adminbugw/ENScan_GO/common"
+	"github.com/adminbugw/ENScan_GO/runner"
 )
 
 func main() {

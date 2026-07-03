@@ -4,11 +4,11 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/tidwall/gjson"
-	"github.com/wgpsec/ENScan/common"
+	"github.com/adminbugw/ENScan_GO/common"
 )
 
 import (
-	"github.com/wgpsec/ENScan/common/gologger"
+	"github.com/adminbugw/ENScan_GO/common/gologger"
 )
 
 type QD struct {

@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/antchfx/htmlquery"
-	"github.com/wgpsec/ENScan/common"
-	"github.com/wgpsec/ENScan/common/gologger"
+	"github.com/adminbugw/ENScan_GO/common"
+	"github.com/adminbugw/ENScan_GO/common/gologger"
 	"golang.org/x/net/html"
 )
 

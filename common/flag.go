@@ -2,7 +2,7 @@ package common
 
 import (
 	"flag"
-	"github.com/wgpsec/ENScan/common/gologger"
+	"github.com/adminbugw/ENScan_GO/common/gologger"
 )
 
 const banner = `
@@ -18,7 +18,7 @@ const banner = `
 
 func Banner() {
 	gologger.Print().Msgf("%sBuilt At: %s\nGo Version: %s\nAuthor: %s\nBuild SHA: %s\nVersion: %s\n\n", banner, BuiltAt, GoVersion, GitAuthor, BuildSha, GitTag)
-	gologger.Print().Msgf("https://github.com/wgpsec/ENScan_GO\n\n")
+	gologger.Print().Msgf("https://github.com/adminbugw/ENScan_GO_GO\n\n")
 	gologger.Print().Msgf("工具仅用于信息收集，请勿用于非法用途\n")
 	gologger.Print().Msgf("开发人员不承担任何责任，也不对任何滥用或损坏负责.\n")
 }

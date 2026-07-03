@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/tidwall/gjson"
-	"github.com/wgpsec/ENScan/common"
-	"github.com/wgpsec/ENScan/common/gologger"
+	"github.com/adminbugw/ENScan_GO/common"
+	"github.com/adminbugw/ENScan_GO/common/gologger"
 )
 
 type Miit struct {

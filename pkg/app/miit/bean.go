@@ -3,8 +3,8 @@ package miit
 import (
 	"crypto/tls"
 	"github.com/imroc/req/v3"
-	"github.com/wgpsec/ENScan/common"
-	"github.com/wgpsec/ENScan/common/gologger"
+	"github.com/adminbugw/ENScan_GO/common"
+	"github.com/adminbugw/ENScan_GO/common/gologger"
 	"time"
 )
 

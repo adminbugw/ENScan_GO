@@ -2,7 +2,7 @@ package _interface
 
 import (
 	"github.com/tidwall/gjson"
-	"github.com/wgpsec/ENScan/common"
+	"github.com/adminbugw/ENScan_GO/common"
 )
 
 type COMMON interface {

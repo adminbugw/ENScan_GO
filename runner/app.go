@@ -2,8 +2,8 @@ package runner
 
 import (
 	"github.com/tidwall/gjson"
-	"github.com/wgpsec/ENScan/common/gologger"
-	"github.com/wgpsec/ENScan/common/utils"
+	"github.com/adminbugw/ENScan_GO/common/gologger"
+	"github.com/adminbugw/ENScan_GO/common/utils"
 )
 
 // getAppById 直接使用关键词调用插件查询

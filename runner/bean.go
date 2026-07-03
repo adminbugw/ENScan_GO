@@ -3,8 +3,8 @@ package runner
 import (
 	"fmt"
 	"github.com/tidwall/gjson"
-	"github.com/wgpsec/ENScan/common"
-	"github.com/wgpsec/ENScan/common/gologger"
+	"github.com/adminbugw/ENScan_GO/common"
+	"github.com/adminbugw/ENScan_GO/common/gologger"
 )
 
 // ENSOp 用于接收前端传递的参数

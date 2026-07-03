@@ -1,4 +1,4 @@
-module github.com/wgpsec/ENScan
+module github.com/adminbugw/ENScan_GO
 
 go 1.23.0
 
